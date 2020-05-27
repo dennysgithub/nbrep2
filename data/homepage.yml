@@ -1,0 +1,77 @@
+############################# banner ############################
+banner:
+  enable : true
+  title : "Investera i företaget, gör en SEO analys"
+  content : "När bara några utvalda företag kan rankas i de första platserna i konsumentens sökresultat, kan en SEO (Search Engine Optimization) -analys vara nyckeln till att förstå varför en webbplats inte producerar resultatet som du önskar."
+
+
+
+  image : "images/seoanalys.png"
+  button: "Beställ Nu"
+
+############################## product ###########################
+product:
+  name : "SEO Analys"
+  image : "images/seoanalys.png"
+  price : "199"
+
+  
+
+############################# Feature ############################
+features:
+  enable : true
+  title : "En Analys i fyra faser"
+  image : "images/fyra-faser.png"
+
+  # feature at the left of the image
+  leftSide:
+    # feature item loop
+  - icon : ""
+    title : "Fas 1"
+    content : "Teknisk analys som hanterar frågor som omdirigeringar, SSL, indexering, webbplatskartor, robots.txt, call to actions, design, sidhastighet, schema markup, citeringar och mer."
+    
+    # feature item loop
+  - icon : ""
+    title : "Fas 2"
+    content : "Analytisk granskning av konverteringsfrekvenser, avvisningsfrekvenser, klickfrekvenser, intern länkstrategi, duplicerade innehållsproblem och mer."
+    
+
+
+  # feature at the right of the image
+  rightSide:
+    # feature item loop
+  - icon : ""
+    title : "Fas 3"
+    content : "Nyckelords-analys. Jag letar efter dina viktigaste nyckelord och etablerar en 6 månaders strategi inriktad på de funna nyckelorden anpassad efter er webbplats auktoritet."
+
+    # feature item loop
+  - icon : ""
+    title : "Fas 4"
+    content : "Jag identifierar dina sociala strategier och integrerar idéer som du kan använda på sociala plattformar för att marknadsföra och markera ditt varumärke."
+
+
+############################# promo ############################
+promo:
+  enable : true
+  image : ""
+  title : "Varför behöver jag en SEO analys?"
+  content : "Innan du har någon som gräver i dina omdirigeringar och underdomänerna ska vi titta på varför du behöver en analys överhuvudtaget:
+  
+
+  **Föråldrat innehåll**: Ditt senaste blogginlägg gjordes för fem år sedan och du har knappt uppdaterat hemsidan sedan dess heller.  
+
+
+
+**Minskande auktoritet**: Sökalgoritmer har som mål att rekommendera webbplatser som visar upp kompetensen hos personerna bakom sidan. Om din webbplats släpar efter så är det dina konkurrenter som kommer få marknadsföringen du är ute efter.
+
+
+**Överväldigande teknik**: Om du har för många API: er eller plug-ins på din webbplats, oavsett om de är aktiva eller inaktiva, kan du oavsiktligt köra din webbplats i botten.
+
+
+
+**Dålig användarupplevelse**: Om dina sidor är långsamma att ladda, din information är oklar (i bästa fall) eller om dina länkar inte fungerar, kan detta göra att din webbplats sjunker i ranking.
+
+
+
+Även om din webbplats fungerar bra till ytan så är det viktigt att du håller koll på vad som händer 'under motorhuven' också. Om du inte har anlitat någon för att hålla koll på sökmotoralgoritmer, kan små förändringar i systemet orsaka stora förluster om du inte är försiktig."
+
