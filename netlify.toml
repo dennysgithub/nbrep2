@@ -4,4 +4,4 @@
   
 [build.environment]
   HUGO_VERSION = "0.65.3"
-  HUGO_THEME = "northendlab-hugo"
+  HUGO_THEME = "vex"
