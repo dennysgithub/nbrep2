@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "https://vibrant-pasteur-322e97.netlify.app"
+baseurl = "http://www.tjanster.nordbergmedia.se/"
 languageCode = "sv"
 title = "Shop - Nordberg Media"
 theme = "vex-hugo-master"
