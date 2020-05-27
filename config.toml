@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "https://www.tjanster.nordbergmedia.se/"
+baseurl = "http://www.tjanster.nordbergmedia.se/"
 languageCode = "sv"
 title = "Tjänster - Nordberg Media"
 theme = "vex-hugo-master"
